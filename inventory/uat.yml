@@ -1,5 +1,5 @@
 ---
-uat-webservers:
+uat_webservers:
   hosts:
     172.31.30.118:
     172.31.21.39:
